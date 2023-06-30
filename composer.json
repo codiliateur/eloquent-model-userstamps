@@ -14,5 +14,12 @@
     },
     "autoload": {
         "psr-4": {"Codiliateur\\Userstamps\\": "src/Userstamps/"}
+    },
+    "extra" : {
+        "laravel" : {
+            "providers" : [
+                "Codiliateur\\Userstamps\\UserstampsServiceProvider"
+            ]
+        }
     }
 }
