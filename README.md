@@ -26,9 +26,9 @@ class YourModel extends Model
     use Codiliateur\Userstamps\Models\HasUserstamps;
     ...
     
-    const CREATED_BY => 'creator_id',
-    const UPDATED_BY => 'updater_id',
-    const DELETED_BY => 'liquidator_id',
+    const CREATED_BY = 'creator_id';
+    const UPDATED_BY = 'updater_id';
+    const DELETED_BY = 'liquidator_id';
     
     ...
 }    
