@@ -20,7 +20,7 @@
     </coverage>
     <testsuites>
         <testsuite name="codiliateur/eloquent-model-userstamps">
-            <directory>tests</directory>
+            <directory>./tests/</directory>
         </testsuite>
     </testsuites>
     <php>

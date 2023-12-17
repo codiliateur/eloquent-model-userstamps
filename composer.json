@@ -1,6 +1,6 @@
 {
 	"name" : "codiliateur/eloquent-model-userstamps",
-	"description" : "User stamp functionalities for eloquent models",
+	"description": "This package provides an Eloquent model trait to automatically maintain  user stamps in columns (created_by, updated_by, deleted_by) of your model.",
 	"keywords" : [
 		"laravel",
 		"eloquent",
