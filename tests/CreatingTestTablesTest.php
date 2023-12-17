@@ -7,7 +7,7 @@ use Codiliateur\Userstamps\Tests\Models\TestTable3;
 use Illuminate\Contracts\Config\Repository;
 use Illuminate\Database\Schema\Blueprint;
 
-class ModelCustomUserstampNamesTest extends AbstractTest
+class CreatingTestTablesTest extends AbstractTest
 {
 
     /**
